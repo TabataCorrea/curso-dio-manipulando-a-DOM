@@ -5,8 +5,7 @@
 ### Atividade prática realizada segundo as instruções da professora Stephany
 
 ## Resultado
-[darkandlightmode.gif](https://user-images.githubusercontent.com/96606916/177820529-e9e260ea-3dd1-4399-a039-284d6e51a95d.webm)
-
+![darkandlightmode.gif](https://user-images.githubusercontent.com/96606916/177897383-5df2a8d5-51a8-4f05-a2e7-eb151ffdb294.gif)
 
 
 <h1 align=center>🚀Tecnologias</h1>
